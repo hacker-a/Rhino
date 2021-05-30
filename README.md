@@ -1,7 +1,7 @@
 542.1 
 Giới thiệu và thu thập thông tin\
 Day1: Introduction and information gathering
-SANS security 504: Hacker techniques, Exploits, and incident handling: Ở phần này , các khóa học của sans tập trung chủ yếu và cách ứng phó với các cuộc tấn công máy tính bắng cách sử dụng giải pháp ứng phó sự cố bằng phương pháp luận
+##SANS security 504: Hacker techniques, Exploits, and incident handling: Ở phần này , các khóa học của sans tập trung chủ yếu và cách ứng phó với các cuộc tấn công máy tính bắng cách sử dụng giải pháp ứng phó sự cố bằng phương pháp luận
 SANS security 542: Web app pentesting and ethical hacking: nếu bạn đang tập trung vào web, kiểm tra thâm nhập ứng dụng, khóa học này cung cấp các kĩ năng để bạn phân tích kĩ các ứng dụng web
 SANS security 550: Active defense,  Offensive Countermeasures, and Cyber Deception: Cung cấp tư duy để bảo vệ môi trường của bạn một cách an toàn và hiệu quả
 SANS security 560: Network penetration testing and ethical hacking: Bao gồm các công cụ, công nghê và các phương pháp pháp luận quan trọng nhất mà tổ chức cần để tiến hành kiểm thử mang lại mô hình lợi nhuận giá trị 
