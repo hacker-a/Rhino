@@ -196,7 +196,7 @@ DNS có thể cung cấp nhiều thông tin và đặc biệt hữu ích để k
 
 Reverse DNS scan: Dịch ngược DNS
 
-Brute Force DNS: Cung cấp một từ điển các DNS tiềm năng < Tấn công vét cạn>
+Brute Force DNS: Cung cấp một từ điển các DNS< Tấn công vét cạn>
 
 Sử dụng các công cụ do thám DNS
 
@@ -205,7 +205,7 @@ Sử dụng các công cụ do thám DNS
 Nslookup: Công cụ để scan DNS
 
 - Tính khả dụng hầu như phổ biến bao gồm UNIX, LINUX, MACos và window
-- Hữu ích để xác định được các lỗ
+- Hữu ích để xác định được các lỗ hổng
 - 1 số tính năng đã được xóa khỏi các phiên bản mới hơn
 
 Dig: Là một DNS client đầy đủ tính năng
@@ -228,7 +228,7 @@ OTG: Thu thập thông tin
 
 OTG-INFO-001: Tiến hành do thám và khám phá các công cụ tìm kiếm
 
-OTG-INFO-002: Máy chủ web vân tay
+OTG-INFO-002: Máy chủ web Finger
 
 OTG-INFO-003: Xem lại các tệp tin máy chủ trang web về rò rỉ thông tin
 
@@ -242,19 +242,25 @@ OTG-INFO-007: Định hướng cách thực thi qua ứng dụng
 
 OTG-INFO-008: Ứng dụng của môi trường web vân tay
 
-OTG-INFO-009: Ứng dụng web vân tay
+OTG-INFO-009: Ứng dụng web Finger
 
 OTG-INFO-010: Kiến trúc sư ứng dụng
 
 ` `OSINT là 1 cụm viêt tắt cho Open Source Intelligency . Trong đó OS là Open Source hay còn gọi là những nguồn mở được public trên internet và Intelligency là Tình báo (sự thu thập các tin tức). Từ đó ta có thể hiểu được là đây chính là những phương thức, cách thức khai thác lấy những thông tin từ video,hình ảnh, văn bản,.. từ những gì liên quan đến mục tiêu có sẵn và đang public trên internet. Những nguồn đó có thể ở bất cứ đâu : trên forum, trên các trang báo,trong 1 cuốn sách, video hay là những thư viện mở,các báo cáo và lịch sử từ trước đó.
 
-Công cụ rõ ràng nhất của OSINT là đơn giản là tìm kiếm
+Công cụ rõ ràng nhất của OSINT đơn giản là tìm kiếm
 
-Hầu hết mọi người chỉ tận dụng công cụ tìm kiếm yêu thích của họ và không suy nghĩ nhiều. Đối với tìm kiếm cơ bản thì điều này có vẻ ổn, còn với tìm kiếm nâng cao điều này nên có chút thay đổ
+Hầu hết mọi người chỉ tận dụng công cụ tìm kiếm yêu thích của họ và không suy nghĩ nhiều. Đối với tìm kiếm cơ bản thì điều này có vẻ ổn, còn với tìm kiếm nâng cao điều này nên có chút thay đổi
 
 OSINT: Các từ khóa để search
 
-Site:,Cache:,Filetype:,Intitle:,Inurl:,Contain:,OSINT: google docks,
+Site:
+Cache:
+Filetype:
+Intitle:
+Inurl:
+Contain:
+OSINT: google docks,
 
 GHDB( google hacking database): Nơi những lỗ hồng được update lên hằng ngày
 
