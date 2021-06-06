@@ -115,7 +115,7 @@ Công cụ DAST đóng vai trò quan trọng trong ứng dụng web kiểm thử
 
 Sử dụng các công cụ DAST một cách hiệu quả
 
-- Cấu hình cho ứng dụng đích
+- Cấu hình cho ứng dụng 
 - Hướng dẫn quét để đảm bảo xem xét toàn diện
 - Theo dõi kết quả để giảm những phát hiện không chính xác
 - Đánh giá những mặt tích cực để hiểu được tác động tiềm ẩn
